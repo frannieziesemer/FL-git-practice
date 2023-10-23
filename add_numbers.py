@@ -1,4 +1,4 @@
-def add_numbers(a, b):
+def add_numbers(a, b, c):
     """
     Adds two numbers and returns the result.
     """
