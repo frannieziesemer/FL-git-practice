@@ -1,4 +1,4 @@
-def multiply_numbers(a, b):
+def multiply_numbers(a, b, c):
     """
     Multiplies two numbers and returns the result.
     """
